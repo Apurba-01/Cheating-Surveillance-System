@@ -86,4 +86,4 @@ Feel free to submit issues and pull requests! If you have improvements or additi
 - [dlib](http://dlib.net/)
 - [OpenCV](https://opencv.org/)
 - [YOLO](https://github.com/ultralytics/yolov5)
-- [Roboflow](https://roboflow.com/) for dataset support
+- [Roboflow](https://roboflow.com/) for dataset 
